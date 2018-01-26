@@ -5,3 +5,6 @@ git status
 git push
 git log
 git reset
+
+"Add a file first and then commit git -am "
+git commit -am file
