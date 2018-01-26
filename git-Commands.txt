@@ -8,3 +8,5 @@ git reset
 
 "Add a file first and then commit git -am "
 git commit -am file
+
+git reflog
